@@ -12,12 +12,10 @@
 
 ## Description
 
-If you input three measurements of a triangle this app will tell you the triangle type.
+
 ## Setup/Installation Requirements
 
-* Got to Monboza.github.io/triangle
-* _input your measurements
-* _hit submit and receive results
+
 
 
 
